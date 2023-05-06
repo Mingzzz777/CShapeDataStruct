@@ -1,0 +1,16 @@
+C:\Users\土豆\source\repos\Coures\Sorting1\obj\Debug\net5.0\Sorting1.csproj.AssemblyReference.cache
+C:\Users\土豆\source\repos\Coures\Sorting1\obj\Debug\net5.0\Sorting1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\土豆\source\repos\Coures\Sorting1\obj\Debug\net5.0\Sorting1.AssemblyInfoInputs.cache
+C:\Users\土豆\source\repos\Coures\Sorting1\obj\Debug\net5.0\Sorting1.AssemblyInfo.cs
+C:\Users\土豆\source\repos\Coures\Sorting1\obj\Debug\net5.0\Sorting1.csproj.CoreCompileInputs.cache
+C:\Users\土豆\source\repos\Coures\Sorting1\bin\Debug\net5.0\Sorting1.exe
+C:\Users\土豆\source\repos\Coures\Sorting1\bin\Debug\net5.0\Sorting1.deps.json
+C:\Users\土豆\source\repos\Coures\Sorting1\bin\Debug\net5.0\Sorting1.runtimeconfig.json
+C:\Users\土豆\source\repos\Coures\Sorting1\bin\Debug\net5.0\Sorting1.runtimeconfig.dev.json
+C:\Users\土豆\source\repos\Coures\Sorting1\bin\Debug\net5.0\Sorting1.dll
+C:\Users\土豆\source\repos\Coures\Sorting1\bin\Debug\net5.0\ref\Sorting1.dll
+C:\Users\土豆\source\repos\Coures\Sorting1\bin\Debug\net5.0\Sorting1.pdb
+C:\Users\土豆\source\repos\Coures\Sorting1\obj\Debug\net5.0\Sorting1.dll
+C:\Users\土豆\source\repos\Coures\Sorting1\obj\Debug\net5.0\ref\Sorting1.dll
+C:\Users\土豆\source\repos\Coures\Sorting1\obj\Debug\net5.0\Sorting1.pdb
+C:\Users\土豆\source\repos\Coures\Sorting1\obj\Debug\net5.0\Sorting1.genruntimeconfig.cache
